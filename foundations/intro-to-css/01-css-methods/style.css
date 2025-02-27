@@ -1,0 +1,8 @@
+div {
+    /* red background, centered, white text, bold*/
+    color: white;
+    background-color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
